@@ -16,7 +16,7 @@
 
         public function makeNoise() : string
         {
-            return "loud barking";
+            return "blaft";
         }
     }
 
@@ -35,7 +35,7 @@
 
         public function makeNoise() : string
         {
-            return "bubbling fish noises";
+            return "blubt";
 
         }
     }
@@ -55,6 +55,6 @@
 
         public function makeNoise() : string
         {
-            return "annoying bird noises";
+            return "fluit";
         }
     }
